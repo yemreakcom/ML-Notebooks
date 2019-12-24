@@ -4,7 +4,7 @@ Makine öğrenimi temellerini ve uygulamasını öğrenme adımları
 
 ## 🧰 Makine Öğrenimi Başlangıç Kiti
 
-WQU Data Science kursunun baz aldığı notebooklar
+[WQU Data Science](./WQU%20Data%20Science/README.md) kursunun baz aldığı notebooklar
 
 - [✍ Kişisel Notlarım](./Ki%C5%9Fisel%20Notlar%C4%B1m) alanından notebooklardan çıkarıdığım notlara erişebilirsin
 - [👨‍🏫 Eğitici Notebooklar](./E%C4%9Fitici%20Notebooklar) alanından makine öğrenimi notebooklarına erişebilir ve onlardan öğrenebilirsin (İngilizcedir 😥)
